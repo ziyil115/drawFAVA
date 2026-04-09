@@ -2,6 +2,7 @@
 /cache/
 !/cache/README.md
 
+.annot-prefs.yml
 .env
 .idea/
 .vscode/
